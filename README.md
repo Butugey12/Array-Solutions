@@ -7,7 +7,7 @@ Sliding Window Problems
 Sorting Techniques
 Two-Pointer Approaches
 Hash Set Implementations
-And more!
+And more! Most of these problems are part of the blind 75 and striver's A2z sheet! 
 ## Getting Started
 To get started with this repository, simply clone it to your local machine or download the source code as a zip file. You can then browse through the different solutions provided, analyze the code, and run the solutions in your preferred development environment.
 
